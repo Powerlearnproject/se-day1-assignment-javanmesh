@@ -3,7 +3,7 @@
 
 ## Part 1: Introduction to Software Engineering
 
-### 1. What is Software Engineering?
+# 1. What is Software Engineering?
 Software engineering is a branch of computer science focused on developing, testing, and maintaining software.
 
 **Importance in the technology industry:**
@@ -14,7 +14,7 @@ Software engineering is a branch of computer science focused on developing, test
 
 ---
 
-### 2. Key Milestones in the Evolution of Software Engineering
+# 2. Key Milestones in the Evolution of Software Engineering
 | Milestone               | Description |
 |-------------------------|-------------|
 | **Mastering Complexity** | Development of structured programming to manage increasing software complexity. |
@@ -23,7 +23,7 @@ Software engineering is a branch of computer science focused on developing, test
 
 ---
 
-### 3. Phases of the Software Development Life Cycle (SDLC)
+# 3. Phases of the Software Development Life Cycle (SDLC)
 1. **Planning** - Identify the software requirement, purpose, and scope.
 2. **Requirement Analysis** - Define user specifications and expectations.
 3. **Design** - Build the software architecture and framework.
@@ -33,7 +33,7 @@ Software engineering is a branch of computer science focused on developing, test
 
 ---
 
-### 4. Waterfall vs Agile Methodology
+# 4. Waterfall vs Agile Methodology
 | Feature  | Waterfall Methodology | Agile Methodology |
 |----------|----------------------|------------------|
 | **Process** | Linear & sequential | Iterative & incremental |
@@ -47,7 +47,7 @@ Software engineering is a branch of computer science focused on developing, test
 
 ---
 
-### 5. Roles and Responsibilities in a Software Engineering Team
+# 5. Roles and Responsibilities in a Software Engineering Team
 #### **Software Developer**
 - Develops applications using programming languages and frameworks.
 - Maintains and updates software for functionality improvements.
@@ -65,7 +65,7 @@ Software engineering is a branch of computer science focused on developing, test
 
 ---
 
-### 6. Importance of IDEs and Version Control Systems (VCS)
+# 6. Importance of IDEs and Version Control Systems (VCS)
 #### **Integrated Development Environments (IDEs)**
 Example: *Visual Studio Code (VSCode)*
 
@@ -85,7 +85,7 @@ Example: *Git*
 
 ---
 
-### 7. Common Challenges Faced by Software Engineers & Strategies to Overcome Them
+# 7. Common Challenges Faced by Software Engineers & Strategies to Overcome Them
 | Challenge | Solution |
 |-----------|----------|
 | Rapid technological advancements | Continuous learning and upskilling. |
@@ -97,7 +97,7 @@ Example: *Git*
 
 ---
 
-### 8. Types of Testing in Software Quality Assurance
+# 8. Types of Testing in Software Quality Assurance
 | Testing Type | Description | Importance |
 |-------------|------------|-------------|
 | **Unit Testing** | Tests individual functions or methods in isolation. | Ensures each unit performs correctly. |
@@ -109,7 +109,7 @@ Example: *Git*
 
 ## Part 2: Introduction to AI and Prompt Engineering
 
-### 1. What is Prompt Engineering?
+# 1. What is Prompt Engineering?
 Prompt engineering is the process of crafting effective prompts to guide AI models in generating desired outputs.
 
 **Importance:**
@@ -119,7 +119,7 @@ Prompt engineering is the process of crafting effective prompts to guide AI mode
 
 ---
 
-### 2. Example of a Vague vs. Improved Prompt
+# 2. Example of a Vague vs. Improved Prompt
 #### **Vague Prompt:**
 > "Tell me about history."
 
